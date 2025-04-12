@@ -69,11 +69,11 @@ namespace CompanyMVC.Controllers
         }
 
         [HttpGet]
-        public ActionResult Edit(string id)
+        public async Task< ActionResult> Edit(string id)
         {
             if (id is null) return BadRequest();
 
-            var user = _userManager.FindByIdAsync(id);
+            var user =await _userManager.FindByIdAsync(id);
             if (user is null) 
                 return NotFound();
 
@@ -112,12 +112,12 @@ namespace CompanyMVC.Controllers
         }
 
         [HttpGet]
-        public IActionResult Delete(string id)
+        public async Task< IActionResult> Delete(string id)
         {
             if (id is null)
                 return BadRequest();
 
-            var user = _userManager.FindByIdAsync(id);
+            var user =await _userManager.FindByIdAsync(id);
             if (user is null) return NotFound();
 
             // التحويل الفعلي هنا

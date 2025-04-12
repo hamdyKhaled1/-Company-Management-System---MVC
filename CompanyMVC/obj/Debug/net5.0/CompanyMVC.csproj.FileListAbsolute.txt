@@ -461,3 +461,4 @@ D:\Projects .Net\CompanyMVCSolution\CompanyMVC\obj\Debug\net5.0\Razor\Views\User
 D:\Projects .Net\CompanyMVCSolution\CompanyMVC\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
 D:\Projects .Net\CompanyMVCSolution\CompanyMVC\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
 D:\Projects .Net\CompanyMVCSolution\CompanyMVC\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+D:\Projects .Net\CompanyMVCSolution\CompanyMVC\obj\Debug\net5.0\CompanyMVC.sourcelink.json
