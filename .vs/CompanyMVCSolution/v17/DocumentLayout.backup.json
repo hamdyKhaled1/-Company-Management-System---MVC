@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects .Net\\CompanyMVCSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|d:\\projects .net\\companymvcsolution\\companymvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|solutionrelative:companymvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|d:\\projects .net\\companymvcsolution\\companymvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|solutionrelative:companymvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|d:\\projects .net\\companymvcsolution\\companymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|solutionrelative:companymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|d:\\projects .net\\companymvcsolution\\companymvc\\views\\shared\\_buttons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|solutionrelative:companymvc\\views\\shared\\_buttons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|d:\\projects .net\\companymvcsolution\\companymvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|solutionrelative:companymvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|d:\\projects .net\\companymvcsolution\\companymvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|solutionrelative:companymvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|d:\\projects .net\\companymvcsolution\\companymvc\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|solutionrelative:companymvc\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|d:\\projects .net\\companymvcsolution\\companymvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|solutionrelative:companymvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|d:\\projects .net\\companymvcsolution\\companymvc\\mappingprofile\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D210594E-BA49-40ED-B6F9-D9ED62E1B308}|CompanyMVC\\CompanyMVC.csproj|solutionrelative:companymvc\\mappingprofile\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "CompanyMVC\\appsettings.json",
+              "ToolTip": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\appsettings.json",
+              "RelativeToolTip": "CompanyMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T18:36:58.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Buttons.cshtml",
+              "DocumentMoniker": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\Views\\Shared\\_Buttons.cshtml",
+              "RelativeDocumentMoniker": "CompanyMVC\\Views\\Shared\\_Buttons.cshtml",
+              "ToolTip": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\Views\\Shared\\_Buttons.cshtml",
+              "RelativeToolTip": "CompanyMVC\\Views\\Shared\\_Buttons.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T18:33:26.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "CompanyMVC\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "CompanyMVC\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T18:31:56.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\Startup.cs",
+              "RelativeDocumentMoniker": "CompanyMVC\\Startup.cs",
+              "ToolTip": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\Startup.cs",
+              "RelativeToolTip": "CompanyMVC\\Startup.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:28:22.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CompanyMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CompanyMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACgAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T18:25:25.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CompanyMVC\\Views\\User\\Delete.cshtml",
+              "ToolTip": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "CompanyMVC\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T18:19:45.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CompanyMVC\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CompanyMVC\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAJwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:13:14.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\MappingProfile\\UserProfile.cs",
+              "RelativeDocumentMoniker": "CompanyMVC\\MappingProfile\\UserProfile.cs",
+              "ToolTip": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\MappingProfile\\UserProfile.cs",
+              "RelativeToolTip": "CompanyMVC\\MappingProfile\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:29:39.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CompanyMVC\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Projects .Net\\CompanyMVCSolution\\CompanyMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CompanyMVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:51:21.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

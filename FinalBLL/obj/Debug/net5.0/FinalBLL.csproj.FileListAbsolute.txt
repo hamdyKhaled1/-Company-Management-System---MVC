@@ -1,0 +1,15 @@
+D:\Projects .Net\CompanyMVCSolution\FinalBLL\bin\Debug\net5.0\FinalBLL.deps.json
+D:\Projects .Net\CompanyMVCSolution\FinalBLL\bin\Debug\net5.0\FinalBLL.dll
+D:\Projects .Net\CompanyMVCSolution\FinalBLL\bin\Debug\net5.0\FinalBLL.pdb
+D:\Projects .Net\CompanyMVCSolution\FinalBLL\bin\Debug\net5.0\FinalDAL.dll
+D:\Projects .Net\CompanyMVCSolution\FinalBLL\bin\Debug\net5.0\FinalDAL.pdb
+D:\Projects .Net\CompanyMVCSolution\FinalBLL\obj\Debug\net5.0\FinalBLL.csproj.AssemblyReference.cache
+D:\Projects .Net\CompanyMVCSolution\FinalBLL\obj\Debug\net5.0\FinalBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects .Net\CompanyMVCSolution\FinalBLL\obj\Debug\net5.0\FinalBLL.AssemblyInfoInputs.cache
+D:\Projects .Net\CompanyMVCSolution\FinalBLL\obj\Debug\net5.0\FinalBLL.AssemblyInfo.cs
+D:\Projects .Net\CompanyMVCSolution\FinalBLL\obj\Debug\net5.0\FinalBLL.csproj.CoreCompileInputs.cache
+D:\Projects .Net\CompanyMVCSolution\FinalBLL\obj\Debug\net5.0\FinalBLL.csproj.Up2Date
+D:\Projects .Net\CompanyMVCSolution\FinalBLL\obj\Debug\net5.0\FinalBLL.dll
+D:\Projects .Net\CompanyMVCSolution\FinalBLL\obj\Debug\net5.0\refint\FinalBLL.dll
+D:\Projects .Net\CompanyMVCSolution\FinalBLL\obj\Debug\net5.0\FinalBLL.pdb
+D:\Projects .Net\CompanyMVCSolution\FinalBLL\obj\Debug\net5.0\ref\FinalBLL.dll
